@@ -11,7 +11,7 @@ The accompanying Golang application interacts with the XDP eBPF program, providi
 
 ######Read more details at the [admida0ui blog](https://admida0ui.tech/2023/08/11/ebpf/?fbclid=IwAR01AaWknOqWn-L8z-ji1PT05zQLs7g76hxEWUxM1-MTrIWcTnXnkPNup90).
 
-### Prerequists:
+### Prerequisites:
 Clang and LLVM:
 ```
 sudo apt update
